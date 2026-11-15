@@ -1,4 +1,4 @@
-# PostgreSQL 18 — Command Reference (psql first)
+# PostgreSQL 18 — Command Reference
 
 Source: https://www.postgresql.org/docs/current/ (PostgreSQL 18.6)
 Format: syntax + one-line comment. Optional parts in `[ ]`, choices with `|`.
